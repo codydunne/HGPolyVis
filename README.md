@@ -1,5 +1,7 @@
 # HGPolyVis
 
+Forked from <https://github.com/peterdanieloliver/HGPolyVis>.
+
 HGPolyVis is a desktop application for visualizing hypergraph data using the polygon visualization metaphor. It contains implementations of the algorithms presented in the following two papers:
 
 > P. Oliver, E. Zhang and Y. Zhang. Scalable Hypergraph Visualization. *IEEE Transactions on Visualization and Computer Graphics*, 30(1):595-605, 2022. doi: 10.1109/TVCG.2023.3326599. arxiv: https://arxiv.org/abs/2308.05043.
